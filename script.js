@@ -5,5 +5,5 @@ function nameAndColor () {
     document.write (username);
     document.write ("! Since your favorite color is ");
     document.write (usercolor);
-    document.write (", you have won a " + usercolor + "phonecase!"); 
+    document.write (", you have won a " + usercolor + " phonecase!"); 
 }
